@@ -1,6 +1,3 @@
-//
-// Created by Varick Erickson on 2/24/2021.
-//
 #include "catch.hpp"
 #include <fstream>
 #include <vector>
