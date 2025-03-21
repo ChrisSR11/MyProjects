@@ -1,16 +1,5 @@
 # Evil Hangman
 
-[comment]: <> (Do not remove this!)
-![Points badge](../../blob/badges/.github/badges/points.svg)
-
-## A note about grading
-
-Unlike previous assignments, part of this assignment will be cloned and
-graded manually.  In particular, the game functionality will be graded
-manually. Compiled versions of the program are provided to show what is
-expected for the game functionality. Assignments that do not compile will
-receive 0 points.
-
 ## Deliverables
 
 | Deliverable                  | Points  |
