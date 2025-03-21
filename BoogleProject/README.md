@@ -1,13 +1,3 @@
-[comment]: <> (Do not remove this!)
-![Points badge](../../blob/badges/.github/badges/points.svg)
-
-> **Note:** It will take 2-5 minutes for the points to update after you push.
-
-Credit Todd Feldman for the original idea behind the assignment. Adapted from 
-handouts of Julie Zelenski and Eric Roberts. Copyright (c) 2021 Varick Erickson.
-
-# Warning
-
 **START EARLY**.  I cannot stress this enough. On average it takes 5-7 days for 
 students to complete the dictionary. The boggle solver can also take 5-7 
 days. 
