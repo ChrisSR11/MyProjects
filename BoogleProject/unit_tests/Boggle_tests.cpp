@@ -1,11 +1,3 @@
-/**
- * Created by Varick Erickson on 2/24/2021.
- *
- * You should not remove or change any of the tests in this file.
- * These are the same tests that will be used to grade your assignment.
- *
- * The purpose of this file is to test the boggle object.
- */
 #include "catch.hpp"
 #include <fstream>
 #include <vector>
